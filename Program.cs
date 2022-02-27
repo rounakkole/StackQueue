@@ -12,6 +12,7 @@ namespace StackQueue
             queue.Push(56);
             queue.Push(30);
             queue.Push(70);
+            queue.Dequeue();
             queue.DisplayQueue();
 
         }
